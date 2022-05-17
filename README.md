@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# File-sharing
 
 <p align="center">
   <a href="https://www.python.org">
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@ItsMeYons ](https://www.telegram.dog/ItsMeYons)**
 
 ### Features
 - Fully customisable.
@@ -57,8 +57,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
+git clone https://github.com/Bad-K17/repo-asupan
+cd repo-asupan
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
