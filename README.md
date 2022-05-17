@@ -112,7 +112,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join And ForSupport/Assistance And Our [Channel](https://www.telegram.dog/file_sharing_support) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
